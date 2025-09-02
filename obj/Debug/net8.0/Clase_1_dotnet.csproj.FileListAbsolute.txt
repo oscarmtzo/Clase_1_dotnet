@@ -1,0 +1,15 @@
+/workspaces/Clase_1_dotnet/bin/Debug/net8.0/Clase_1_dotnet
+/workspaces/Clase_1_dotnet/bin/Debug/net8.0/Clase_1_dotnet.deps.json
+/workspaces/Clase_1_dotnet/bin/Debug/net8.0/Clase_1_dotnet.runtimeconfig.json
+/workspaces/Clase_1_dotnet/bin/Debug/net8.0/Clase_1_dotnet.dll
+/workspaces/Clase_1_dotnet/bin/Debug/net8.0/Clase_1_dotnet.pdb
+/workspaces/Clase_1_dotnet/obj/Debug/net8.0/Clase_1_dotnet.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/Clase_1_dotnet/obj/Debug/net8.0/Clase_1_dotnet.AssemblyInfoInputs.cache
+/workspaces/Clase_1_dotnet/obj/Debug/net8.0/Clase_1_dotnet.AssemblyInfo.cs
+/workspaces/Clase_1_dotnet/obj/Debug/net8.0/Clase_1_dotnet.csproj.CoreCompileInputs.cache
+/workspaces/Clase_1_dotnet/obj/Debug/net8.0/Clase_1_dotnet.sourcelink.json
+/workspaces/Clase_1_dotnet/obj/Debug/net8.0/Clase_1_dotnet.dll
+/workspaces/Clase_1_dotnet/obj/Debug/net8.0/refint/Clase_1_dotnet.dll
+/workspaces/Clase_1_dotnet/obj/Debug/net8.0/Clase_1_dotnet.pdb
+/workspaces/Clase_1_dotnet/obj/Debug/net8.0/Clase_1_dotnet.genruntimeconfig.cache
+/workspaces/Clase_1_dotnet/obj/Debug/net8.0/ref/Clase_1_dotnet.dll
